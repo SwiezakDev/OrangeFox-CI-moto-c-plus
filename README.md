@@ -1,5 +1,7 @@
 # 🦊 OrangeFox Recovery for moto c plus XT1723
 
+# 📥 Download 
+To download go to releses
 
 ## How to Install
 1. Reboot your device to TWRP.
